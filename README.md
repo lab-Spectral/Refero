@@ -335,21 +335,6 @@ Compatible with all static hosting providers:
 - Traditional web servers (Apache, Nginx)
 - CDN deployment for global distribution
 
-## Contributing
-
-### **Development Setup**
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/new-functionality`
-3. Follow the existing code style and patterns
-4. Test your changes thoroughly
-5. Submit a pull request with detailed description
-
-### **Code Style**
-- **ES6+ JavaScript**: Modern syntax and features
-- **Svelte Conventions**: Component naming and structure
-- **CSS Methodology**: BEM-inspired class naming
-- **Documentation**: JSDoc comments for complex functions
-
 ## Editions
 
 Preparo is available in two editions:
