@@ -1,2 +1,6 @@
 # Refero
-Refero is a modern, intuitive web client for Zotero library management. It features a sleek, responsive UI for researchers, students, and professionals to manage references efficiently. Unlike existing solutions, it offers advanced customization, enabling control over fields, document types, and custom fields
+Refero est un client web moderne et intuitif pour la gestion de bibliothèques Zotero. Il offre une interface utilisateur élégante et responsive qui permet aux chercheurs, étudiants et professionnels de gérer efficacement leurs collections de références bibliographiques. Contrairement aux solutions existantes, Refero se distingue par sa capacité de personnalisation poussée, permettant d'activer ou désactiver les champs et types de documents souhaités, ainsi que d'ajouter des champs personnalisés stockés dans le champ "extra" de Zotero, offrant une flexibilité inégalée pour les workflows spécialisés.
+
+Le projet s'appuie sur Svelte (framework JavaScript moderne) et Vite (outil de build rapide) pour une performance optimale. L'interface modulaire à trois panneaux offre une intégration complète à l'API Web Zotero.
+
+Refero représente une modernisation significative de l'expérience Zotero, alliant performance technique et simplicité d'usage pour répondre aux besoins contemporains de la recherche académique. En tant que client Zotero le plus personnalisable disponible, il transforme la façon dont les chercheurs interagissent avec leurs références bibliographiques, en s'adaptant parfaitement à leurs méthodes de travail.
