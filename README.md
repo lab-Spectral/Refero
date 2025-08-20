@@ -350,6 +350,18 @@ Compatible with all static hosting providers:
 - **CSS Methodology**: BEM-inspired class naming
 - **Documentation**: JSDoc comments for complex functions
 
+## Editions
+
+Preparo is available in two editions:
+- Preparo Community Edition (CE) released under the AGPL license, free to use and modify.
+- Preparo Enterprise Edition (EE) includes additional features and official support. A commercial license is required.
+
+## Licensing
+See the [LICENSE](LICENSE) file for details on licensing.
+
+## Contributing
+Preparo is an open source project and we welcome community contributions.
+Please refer to the [Contributing Guide](CONTRIBUTING.md) for more details.
 
 ## Support
 
