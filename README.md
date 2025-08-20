@@ -1,5 +1,6 @@
 # Refero
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Svelte](https://img.shields.io/badge/Svelte-4.x-ff3e00)](https://svelte.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5.x-646cff)](https://vitejs.dev/)
 
