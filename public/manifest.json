@@ -1,0 +1,26 @@
+{
+  "name": "Refero - Client Web Zotero",
+  "short_name": "Refero",
+  "description": "Client web moderne pour gérer votre bibliothèque Zotero",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2b2b2b",
+  "theme_color": "#5c7cfa",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["productivity", "education", "utilities"],
+  "lang": "fr",
+  "scope": "/",
+  "prefer_related_applications": false
+}

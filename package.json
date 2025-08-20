@@ -1,0 +1,44 @@
+{
+  "name": "refero",
+  "version": "1.0.0",
+  "description": "A modern web client for Zotero - Manage your research library with ease",
+  "author": "entremonde / Spectral lab",
+  "license": "MIT",
+  "homepage": "https://github.com/username/refero",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/refero.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/refero/issues"
+  },
+  "keywords": [
+    "zotero",
+    "research",
+    "bibliography",
+    "reference-manager",
+    "svelte",
+    "web-client"
+  ],
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "clean": "rm -rf dist node_modules/.vite"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.2",
+    "svelte": "^4.2.20",
+    "vite": "^5.2.10"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
