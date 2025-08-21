@@ -1,3 +1,30 @@
+Copyright (c) 2025-present Spectral Lab
+
+Portions of this software are licensed as follows:
+
+* All content residing under the "docs/" directory of this repository 
+  is licensed under the "Creative Commons Attribution-ShareAlike 4.0 
+  International" (CC BY-SA 4.0).
+* All client-side JavaScript (when served directly or after being 
+  compiled,arranged, augmented, or combined), is licensed under the 
+  GNU Affero General Public License, version 3 (AGPL-3.0).
+* All third party components incorporated into the Software are 
+  licensed under the original license provided by the owner of the 
+  applicable component.
+* Content outside of the above mentioned directories or restrictions 
+  above is available under the GNU Affero General Public License, 
+  version 3 (AGPL-3.0), as defined below.
+
+The names Preparo and Spectral are trademarks of Spectral Lab.  
+They may be used freely to refer to or distribute the official 
+open source software. Any commercial use of these trademarks requires 
+prior written permission.
+
+Use of this software to operate a paid cloud service (SaaS) is expected 
+to be covered by an enterprise license from Spectral Lab, which provides
+additional rights, branding permissions, and professional support.
+
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
