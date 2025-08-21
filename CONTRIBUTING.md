@@ -18,7 +18,7 @@ Depending on the project you contribute to:
     - **ICLA (Individual Contributor License Agreement)** if you contribute as an individual.  
     - **CCLA (Corporate Contributor License Agreement)** if you contribute on behalf of a company.  
   - These contributions are published under the **AGPL v3** license (strong copyleft) to guarantee that all modifications remain free.  
-  - In some cases (Spectral Cloud, BookForge Cloud, Codex Cloud, etc.), code is integrated into **proprietary components**:  
+  - In some cases (Spectral Cloud), code is integrated into **proprietary components**:  
     - By contributing, you agree that Spectral Lab may reuse your contribution in its commercial products.  
     - Revenues from these products help **sustain the non-profit association** that maintains the project and ensure the continuity of free development.
 
